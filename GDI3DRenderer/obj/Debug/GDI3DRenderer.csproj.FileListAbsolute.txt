@@ -1,0 +1,10 @@
+C:\Users\3r0rXx\source\repos\GDI3DRenderer\GDI3DRenderer\bin\Debug\GDI3DRenderer.exe.config
+C:\Users\3r0rXx\source\repos\GDI3DRenderer\GDI3DRenderer\bin\Debug\GDI3DRenderer.exe
+C:\Users\3r0rXx\source\repos\GDI3DRenderer\GDI3DRenderer\bin\Debug\GDI3DRenderer.pdb
+C:\Users\3r0rXx\source\repos\GDI3DRenderer\GDI3DRenderer\obj\Debug\GDI3DRenderer.csprojAssemblyReference.cache
+C:\Users\3r0rXx\source\repos\GDI3DRenderer\GDI3DRenderer\obj\Debug\GDI3DRenderer.Form1.resources
+C:\Users\3r0rXx\source\repos\GDI3DRenderer\GDI3DRenderer\obj\Debug\GDI3DRenderer.Properties.Resources.resources
+C:\Users\3r0rXx\source\repos\GDI3DRenderer\GDI3DRenderer\obj\Debug\GDI3DRenderer.csproj.GenerateResource.cache
+C:\Users\3r0rXx\source\repos\GDI3DRenderer\GDI3DRenderer\obj\Debug\GDI3DRenderer.csproj.CoreCompileInputs.cache
+C:\Users\3r0rXx\source\repos\GDI3DRenderer\GDI3DRenderer\obj\Debug\GDI3DRenderer.exe
+C:\Users\3r0rXx\source\repos\GDI3DRenderer\GDI3DRenderer\obj\Debug\GDI3DRenderer.pdb
